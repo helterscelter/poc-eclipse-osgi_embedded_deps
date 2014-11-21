@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1416539557987_0" label="build" name="build">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/helter" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/helter.osgi.build" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/helter.osgi.util.build" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/helter.osgi.util.jaxb.pool" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/helter.osgi.util.use.jaxb.pool" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/helter.osgi.util.embedded" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/helter.packaging.build" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/helter.packaging.sample" type="4"/>
+</workingSet>
+</workingSetManager>

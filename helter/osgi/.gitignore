@@ -1,0 +1,11 @@
+# ignore the build.properties file that eclipse makes. 
+# this will ignore the file in every subtree
+build.properties
+
+# ignore the generated META-INF directory
+META-INF
+
+# this only works with git v1.8.2+
+# make sure we include any META-INF under the resources directories.
+# 
+!**/resources/META-INF

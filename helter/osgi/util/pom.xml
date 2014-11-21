@@ -1,0 +1,30 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>helter.osgi</groupId>
+		<artifactId>build</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+
+	<groupId>helter.osgi.util</groupId>
+	<artifactId>build</artifactId>
+	<description>Parent pom for OSGi Utility Bundles</description>
+	<name>${project.artifactId} [${project.groupId}]</name>
+
+	<packaging>pom</packaging>
+
+	<modules>
+		<module>jaxb.pool</module>
+		<module>use.jaxb.pool</module>
+		<module>embedded</module>
+	</modules>
+
+	<dependencies>
+
+
+	</dependencies>
+
+	<build>
+	</build>
+
+</project>
